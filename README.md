@@ -1,4 +1,4 @@
-# 📁 Group 4 Final project 
+# 📚 Group 4 Final project 
 + Last updated (0514 by MK316)
 + Presentation is scheduled on June 11 (Tuesday)
 + Overview of the project here :-)
