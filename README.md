@@ -43,3 +43,5 @@ App list
 
 7. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://huggingface.co/spaces/chrsrh11/game_practice)
    허깅페이스 스페이스로 핵맨? 게임 만들어봤어요.
+
+8. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/englissi/englissi/blob/main/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%96%B4%ED%94%8C.ipynb) 본문어휘 빈도수 3->1 기준으로 어휘 받아쓰기 코드입니다.
