@@ -53,5 +53,5 @@ App list
 14. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/e302344db452582ad786281534654fc77c042935/%EB%AC%B8%EB%8B%A8%EB%B3%84%20%EB%93%A3%EA%B8%B0.ipynb) 본문 문단별 듣기
 15. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/a058c9cb49f88fcebf9867c8c429c62baff44dfc/Verb_Cloze_Test.ipynb) Verb Cloze Test
 16. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/dfc75b1ab383a9a89f687611040a024a7e714072/Listening_Cloze_Test.ipynb) Listening Cloze Test
-17. 
+17. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/1ab4ac864761bc641d5376c56f123a8a808309c0/%EC%A3%BC%EA%B4%80%EC%8B%9D%EB%AC%B8%EC%A0%9C.ipynb) 주관식 리딩 퀴즈
 
