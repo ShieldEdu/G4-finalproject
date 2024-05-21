@@ -44,5 +44,5 @@ App list
 7. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://huggingface.co/spaces/chrsrh11/game_practice)
    허깅페이스 스페이스로 핵맨? 게임 만들어봤어요.
 
-8. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%96%B4%ED%94%8C.ipynb) 어휘 받아쓰기 코드 (빈도수 3,2,1)
+8. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%96%B4%ED%94%8C.ipynb) 어휘 받아쓰기 (빈도수 3,2,1)
 9. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/Word_Cloud_Generator.ipynb) Word Cloud Generator
