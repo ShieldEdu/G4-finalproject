@@ -51,4 +51,7 @@ App list
 12. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/4a37ec29c578137b093333a367da6eafe8eb6768/Text_to_Speech_American_British.ipynb) Text to speech 미국/영국영어
 13. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/08a884c364bb2de80a2c3a5f3088dfa06301dece/Writing_corrector.ipynb) 작문 교정기
 14. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/e302344db452582ad786281534654fc77c042935/%EB%AC%B8%EB%8B%A8%EB%B3%84%20%EB%93%A3%EA%B8%B0.ipynb) 본문 문단별 듣기
+15. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/a058c9cb49f88fcebf9867c8c429c62baff44dfc/Verb_Cloze_Test.ipynb) Verb Cloze Test
+16. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/dfc75b1ab383a9a89f687611040a024a7e714072/Listening_Cloze_Test.ipynb) Listening Cloze Test
+17. 
 
