@@ -47,4 +47,5 @@ App list
 8. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0%EC%96%B4%ED%94%8C.ipynb) 어휘 받아쓰기 (빈도수 3,2,1)
 9. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/7d8f6e352c2b6a17f3575a0c87ec1aac1fbf24f9/Word_Cloud_Generator.ipynb) Word Cloud Generator
 10. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/c5bc55632210dbb1d91456df1c40bb156588347c/Comprehension_test_with_multiple_options.ipynb) Multiple Comprehension Test 
-11. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/4a37ec29c578137b093333a367da6eafe8eb6768/Text_to_Speech_American_British.ipynb) Text to speech 미국/영국영어 
+11. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/4a37ec29c578137b093333a367da6eafe8eb6768/Text_to_Speech_American_British.ipynb) Text to speech 미국/영국영어
+12. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/08a884c364bb2de80a2c3a5f3088dfa06301dece/Writing_corrector.ipynb) 작문 교정기 
