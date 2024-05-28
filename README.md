@@ -60,7 +60,7 @@ App list
 
 ## Huggingface 
 
-1. [![GSTESOL Final Listening](https://github.com/englissi/englissi/blob/main/Sample/paragraph%20listening.webp)](http://englissi-gstesolfinallistening.hf.space)
+1. 본문 끊어듣기 QR [![GSTESOL Final Listening](https://github.com/englissi/englissi/blob/main/Sample/paragraph%20listening.webp)](http://englissi-gstesolfinallistening.hf.space)
 2. 발음평가기 : http://englissi-mypronunciation.hf.space
 3. Wordcloud : https://englissi-wordcloud.hf.space
 4. QR generator : http://englissi-qrgenerator.hf.space
