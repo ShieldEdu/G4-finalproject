@@ -60,8 +60,8 @@ App list
 
 ## Huggingface 
 
-1. 문단별 미국/영국 듣기 : http://englissi-gstesolfinallistening.hf.space
+1. 문단별 미국/영국 듣기 : http://englissi-gstesolfinallistening.hf.space 
 2. 발음평가기 : http://englissi-mypronunciation.hf.space
-3. Wordcloud :
-4. QR generator :
+3. Wordcloud : https://englissi-wordcloud.hf.space
+4. QR generator : http://englissi-qrgenerator.hf.space
 5. 
