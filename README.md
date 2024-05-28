@@ -56,3 +56,9 @@ App list
 17. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/1ab4ac864761bc641d5376c56f123a8a808309c0/%EC%A3%BC%EA%B4%80%EC%8B%9D%EB%AC%B8%EC%A0%9C.ipynb) 주관식 리딩 퀴즈
 18. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/97df0b124413b6f24f7e65f7cdbc994b1fbdc29c/Image_sentence_matching.ipynb) 이미지-문장 매칭 퀴즈
 
+
+
+## Huggingface 
+
+1. 문단별 미국/영국 듣기 : http://englissi-gstesolfinallistening.hf.space
+2. 
