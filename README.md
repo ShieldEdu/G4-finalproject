@@ -31,6 +31,7 @@ App list
 16. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/dfc75b1ab383a9a89f687611040a024a7e714072/Listening_Cloze_Test.ipynb) Listening Cloze Test
 17. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/1ab4ac864761bc641d5376c56f123a8a808309c0/%EC%A3%BC%EA%B4%80%EC%8B%9D%EB%AC%B8%EC%A0%9C.ipynb) 주관식 리딩 퀴즈
 18. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/97df0b124413b6f24f7e65f7cdbc994b1fbdc29c/Image_sentence_matching.ipynb) 이미지-문장 매칭 퀴즈
+19. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1KnyG6uNc6kb3esGQLASNAovowJHs3xZU?usp=sharing)) speedreading [한 단어씩 단어나 보여지는 앱]
 
 
 
