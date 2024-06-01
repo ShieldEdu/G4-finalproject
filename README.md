@@ -33,6 +33,7 @@ App list
 18. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/englissi/englissi/blob/97df0b124413b6f24f7e65f7cdbc994b1fbdc29c/Image_sentence_matching.ipynb) 이미지-문장 매칭 퀴즈
 19. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1KnyG6uNc6kb3esGQLASNAovowJHs3xZU?usp=sharing)) speedreading [한 단어씩 보여지는 앱]
 20. https://huggingface.co/spaces/KingNish/OpenGPT-4o [앱이름이 openGPT-4o라고 하네요]
+21. https://huggingface.co/spaces/tonyassi/voice-clone [듣기앱]
 
 
 
