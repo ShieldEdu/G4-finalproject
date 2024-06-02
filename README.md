@@ -8,33 +8,74 @@
 
 ## Lesson Plan
 
-### Objectives
+# TESOL Lesson Plan: "The Guardian's Secret"
+
+## Overview
+This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
+
+## Objectives
 - Improve vocabulary knowledge
 - Enhance listening comprehension
 - Develop sequencing skills
 - Foster creative writing abilities
 
-### Tools Used
+## Tools Used
 - **Gradio**: For creating interactive web apps.
 - **Python**: Programming language for implementing Gradio apps.
 
-#### 1.Listening Activity
+## Lesson Plan
 
-**(1) Pre-Listening Activity: Learning New Words**
-- **Gradio Wordcloud App**: Create a word cloud highlighting frequent words from the story. Use the word cloud to introduce and discuss new vocabulary.
+### Teaching Procedure (55 minutes in total)
 
-**(2) While-Listening Activity**
-- **Gradio TTS App**: Convert the text to an audio file for listening practice.
-- **Gradio Cloze Question App**: Create cloze questions with blanks for past tense verbs to focus on grammar.
-- **Gradio Verb Base Form App**: Students input past tense verbs they heard and get their base forms.
+##### 1.Listening Activity (35 minutes)
 
-**(3) After-Listening Activity: Sequence the Story**
-- **Gradio Image Sequencing App**: Provide images related to the story and let students arrange them in the correct sequence.
+**(1) Pre-Listening Activity: Learning New Words (10 minutes)**
+- **Objective**: Introduce and discuss new vocabulary from the story.
+- **Activity**: Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+- **Teacher's Role**: Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
+- **Students' Role**: Participate in the discussion, take notes on new vocabulary, and ask questions about any unfamiliar words.
 
-#### 2.Writing Activity
+**(2) While-Listening Activity (15 minutes)**
+- **Objective**: Enhance listening comprehension and focus on past tense verbs.
+- **Activity**: 
+  - Use the Gradio TTS App to convert the text to an audio file. Play the audio for students.
+  - Provide a cloze exercise using the Gradio Cloze Question App, focusing on past tense verbs. Students fill in the blanks while listening.
+  - Use the Gradio Verb Base Form App to allow students to input past tense verbs they heard and get their base forms.
+- **Teacher's Role**: 
+  - Play the audio file and monitor students' progress.
+  - Distribute the cloze exercise and guide students through it.
+  - Assist students in using the Verb Base Form App.
+- **Students' Role**: 
+  - Listen to the audio and complete the cloze exercise by filling in the blanks with past tense verbs.
+  - Use the Verb Base Form App to check their answers and learn the base forms of the verbs.
 
-- **Gradio Writing Checker App**: Provide a prompt and allow students to write and check their writing. 
-  - Example prompt: "In the story, Alex found ancient artifacts and donated them to the town. If you were Alex, what would you do with the artifacts? Why?"
+**(3) After-Listening Activity: Sequence the Story (10 minutes)**
+- **Objective**: Develop sequencing skills by arranging images in the correct order.
+- **Activity**: Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
+- **Teacher's Role**: 
+  - Display the images using the Image Sequencing App.
+  - Guide students through the activity, asking them to justify their choices.
+- **Students' Role**: 
+  - Work individually or in pairs to arrange the images in the correct sequence.
+  - Discuss and explain their reasoning for the order they chose.
+
+#### 2.Writing Activity (20 minutes)
+- **Objective**: Foster creative writing and check for grammatical accuracy.
+- **Activity**: 
+  - Provide the following writing prompt: "In the story, Alex found ancient artifacts and donated them to the town. If you were Alex, what would you do with the artifacts? Why?"
+  - Use the Gradio Writing Checker App to allow students to check their writing for errors.
+- **Teacher's Role**: 
+  - Introduce the writing prompt and explain the task.
+  - Assist students in using the Writing Checker App to review and correct their writing.
+- **Students' Role**: 
+  - Write a response to the prompt.
+  - Use the Writing Checker App to check their writing and make corrections based on the feedback.
+
+## Notes for Teachers
+- Ensure all Gradio apps are set up and tested before the lesson.
+- Be prepared to assist students with any technical issues that may arise while using the apps.
+- Encourage students to actively participate and ask questions throughout the lesson.
+- Adapt the activities as needed based on the students' proficiency levels and engagement.
 
 ## Lesson Materials
 
