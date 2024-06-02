@@ -27,7 +27,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ### Teaching Procedure (55 minutes in total)
 
-##### <span style="color:blue">1.Listening Activity (35 minutes)
+#####<span style="color:blue">1.Listening Activity (35 minutes)
 
 **(1) Pre-Listening Activity: Learning New Words (10 minutes)**
 - **Objective**: Introduce and discuss new vocabulary from the story.
