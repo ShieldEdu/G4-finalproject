@@ -4,6 +4,19 @@
 </div>
 
 
+# Listening #
+
+# Worldclod #
+-어휘 받아쓰기
+-단어 듣고 받아쓰기
+
+# TTS #
+
+# Image generator #
+순서정하기 -> 내용을 그룹끼리 만화를 만들어보기
+
+# Writing (작문교정기) #
+
 # 📚 Group 4 Final project 
 + Last updated (0514 by MK316)
 + Presentation is scheduled on June 11 (Tuesday)
