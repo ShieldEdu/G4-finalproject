@@ -8,33 +8,40 @@
 
 ## Lesson Plan
 
-### 1. Introduction
-**Main Presenter:**
-- Introduce the project and the story "The Guardian's Secret."
-- Explain the language objectives: enhancing listening and writing skills.
+# Final Project Lesson Plan: "The Guardian's Secret"
 
-### 2. Teaching Procedure
+## Overview
+This project aims to teach middle school students using the story "The Guardian's Secret," focusing on enhancing listening and writing skills through interactive activities created with Gradio and Python coding.
 
-#### Listening Activity
+## Objectives
+- Improve vocabulary knowledge
+- Enhance listening comprehension
+- Develop sequencing skills
+- Foster creative writing abilities
+
+## Tools Used
+- **Gradio**: For creating interactive web apps.
+- **Python**: Programming language for implementing Gradio apps.
+
+## Lesson Plan
+
+#### 1.Listening Activity
 
 **(1) Pre-Listening Activity: Learning New Words**
 - **Gradio Wordcloud App**: Create a word cloud highlighting frequent words from the story. Use the word cloud to introduce and discuss new vocabulary.
 
-```python
-import gradio as gr
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
+**(2) While-Listening Activity**
+- **Gradio TTS App**: Convert the text to an audio file for listening practice.
+- **Gradio Cloze Question App**: Create cloze questions with blanks for past tense verbs to focus on grammar.
+- **Gradio Verb Base Form App**: Students input past tense verbs they heard and get their base forms.
 
-def create_wordcloud(text):
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
-    plt.figure(figsize=(10, 5))
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis('off')
-    plt.show()
+**(3) After-Listening Activity: Sequence the Story**
+- **Gradio Image Sequencing App**: Provide images related to the story and let students arrange them in the correct sequence.
 
-text = "The Guardian's Secret text goes here..."
-gr.Interface(create_wordcloud, text, "plot").launch()
+#### 2.Writing Activity
 
+- **Gradio Writing Checker App**: Provide a prompt and allow students to write and check their writing. 
+  - Example prompt: "In the story, Alex found ancient artifacts and donated them to the town. If you were Alex, what would you do with the artifacts? Why?"
 
 ## Lesson Materials
 
