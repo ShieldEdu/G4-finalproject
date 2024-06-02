@@ -21,9 +21,9 @@
 # Writing (작문교정기) #
 
 # 📚 Group 4 Final project 
-+ Last updated (0514 by MK316)
++ Last updated (0602 by Gyeong-hoon)
 + Presentation is scheduled on June 11 (Tuesday)
-+ Overview of the project here :-)
++ Overview of the project: We design a class to teach middle school students using the story "The Guardian's Secret," focusing on listening and writing skills through interactive activities created with Gradio and Python coding.
 
 ## Useful Links
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1] | 💠 [APP#2] |
