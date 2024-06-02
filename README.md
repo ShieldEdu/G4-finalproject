@@ -71,7 +71,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
   - Write a response to the prompt.
   - Use the Writing Checker App to check their writing and make corrections based on the feedback.
 
-## Notes for Teachers
+#### Notes for Teachers
 - Ensure all Gradio apps are set up and tested before the lesson.
 - Be prepared to assist students with any technical issues that may arise while using the apps.
 - Encourage students to actively participate and ask questions throughout the lesson.
