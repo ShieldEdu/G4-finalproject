@@ -8,11 +8,6 @@
 
 ## Lesson Plan
 
-# Final Project Lesson Plan: "The Guardian's Secret"
-
-## Overview
-This project aims to teach middle school students using the story "The Guardian's Secret," focusing on enhancing listening and writing skills through interactive activities created with Gradio and Python coding.
-
 ## Objectives
 - Improve vocabulary knowledge
 - Enhance listening comprehension
@@ -22,8 +17,6 @@ This project aims to teach middle school students using the story "The Guardian'
 ## Tools Used
 - **Gradio**: For creating interactive web apps.
 - **Python**: Programming language for implementing Gradio apps.
-
-## Lesson Plan
 
 #### 1.Listening Activity
 
