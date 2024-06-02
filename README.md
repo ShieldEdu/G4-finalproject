@@ -87,7 +87,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 In Echo Ridge, a mountain village enriched with legends of the "Guardian of the Glen" eagle, adventurous Alex discovers an ancient map in a library book that hints at a hidden treasure in Whispering Hollow cave. Along with friends Mia and Sam, Alex embarks on a challenging expedition through dense forests and rugged terrain. Upon reaching the cave, they find not gold, but historical artifacts including a statuette of the Guardian eagle, which they donate to the local museum. This discovery not only cements their status as local heroes but revitalizes the village's interest in its own lore and history, continuing the legend of the Guardian as a symbol of adventure and cultural heritage.
 
 **<Overview>**
-+ Stage 1.![Guardian Eagle](https://chatgpt.com/c/6ca2914c-7d61-40dd-90d3-e99d4d31aaf0)
++ Stage 1.![Guardian Eagle](https://drive.google.com/file/d/1LMa2yUsz5-8RvFVbPR9qwksQPKaReMRV/view?usp=sharing)
 + Stage 2.
 + Stage 3.
 + Stage 4.
