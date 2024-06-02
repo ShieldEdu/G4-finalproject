@@ -8,13 +8,13 @@
 
 ## Lesson Plan
 
-## Objectives
+### Objectives
 - Improve vocabulary knowledge
 - Enhance listening comprehension
 - Develop sequencing skills
 - Foster creative writing abilities
 
-## Tools Used
+### Tools Used
 - **Gradio**: For creating interactive web apps.
 - **Python**: Programming language for implementing Gradio apps.
 
