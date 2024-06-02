@@ -27,7 +27,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ### Teaching Procedure (55 minutes in total)
 
-##### <span style="color:color_name">1.Listening Activity (35 minutes) </span>
+##### **1.Listening Activity (35 minutes)**
 
 **(1) Pre-Listening Activity: Learning New Words (10 minutes)**
 - **Objective**: Introduce and discuss new vocabulary from the story.
@@ -59,7 +59,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
   - Work individually or in pairs to arrange the images in the correct sequence.
   - Discuss and explain their reasoning for the order they chose.
 
-#### 2.Writing Activity (20 minutes)
+#### **2.Writing Activity (20 minutes)**
 - **Objective**: Foster creative writing and check for grammatical accuracy.
 - **Activity**: 
   - Provide the following writing prompt: "In the story, Alex found ancient artifacts and donated them to the town. If you were Alex, what would you do with the artifacts? Why?"
