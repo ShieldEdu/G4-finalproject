@@ -88,8 +88,8 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 
 **<Overview>**
 + Stage 1.![Guardian Eagle](https://drive.google.com/file/d/1LMa2yUsz5-8RvFVbPR9qwksQPKaReMRV/view?usp=sharing)
-+ Stage 2.
-+ Stage 3.
-+ Stage 4.
++ Stage 2.![Guardian Eagle](https://drive.google.com/file/d/1CZFGFXAEavO074yShPlmGx34EHESQTQG/view?usp=sharing)
++ Stage 3.![Guardian Eagle](https://drive.google.com/file/d/1LMa2yUsz5-8RvFVbPR9qwksQPKaReMRV/view?usp=sharing)
++ Stage 4.![Guardian Eagle](https://drive.google.com/file/d/1LMa2yUsz5-8RvFVbPR9qwksQPKaReMRV/view?usp=sharing)
 
 ## Huggingface
