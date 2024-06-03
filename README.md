@@ -53,8 +53,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - **Objective**: Develop sequencing skills by arranging images in the correct order.
 - **Activity**: Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
 - **Teacher's Role**: 
-  - Display the images using the Image Sequencing App.
-    ![Image Matching](https://github.com/englissi/englissi/blob/4f8a7cc7c7194132422e05081fd7d9502c3c4c65/Sample/image%20matching.webp?raw=true)[Go to Matching Page](http://englissi-matching.hf.space)
+  - Display the images using the Image Sequencing App (http://englissi-matching.hf.space)
   - Guide students through the activity, asking them to justify their choices.
 - **Students' Role**: 
   - Work individually or in pairs to arrange the images in the correct sequence.
@@ -91,3 +90,4 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
 ## Huggingface
+[Image Matching](http://englissi-matching.hf.space)![Image Matching](https://github.com/englissi/englissi/blob/4f8a7cc7c7194132422e05081fd7d9502c3c4c65/Sample/image%20matching.webp?raw=true)[Go to Matching Page](http://englissi-matching.hf.space)
