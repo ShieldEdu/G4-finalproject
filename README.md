@@ -92,9 +92,10 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 ## Huggingface
 <table>
   <tr>
-    <td>App Name</td>
-    <td><img src="https://github.com/englissi/englissi/blob/4f8a7cc7c7194132422e05081fd7d9502c3c4c65/Sample/image%20matching.webp?raw=true" alt="QR Code" style="width:33%;"></td>
+     <td>
+      <a href="http://englissi-matching.hf.space" target="_blank">
+        <img src="https://github.com/englissi/englissi/blob/4f8a7cc7c7194132422e05081fd7d9502c3c4c65/Sample/image%20matching.webp?raw=true" alt="QR Code" style="width:33%;">
+      </a>
+    </td>
   </tr>
 </table>
-
-[Go to Matching Page](http://englissi-matching.hf.space)
