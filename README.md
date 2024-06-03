@@ -1,7 +1,7 @@
 # 📚 Group 4 Final project 
 + Last updated (0602 by Gyeong-hoon)
 + Presentation is scheduled on June 11 (Tuesday)
-+ Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," focusing on enhancing **listening and writing skills** through interactive activities created with Gradio and Python coding.
++ Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," focusing on enhancing **listening and writing skills** through interactive activities created with Gradio and Python coding. (=> "This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills." Suggested by MK316)
 
 ## Useful Links
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1](https://ca80775c0c34cc2ccb.gradio.live) | 💠 [APP#2](https://b7f601afa10ef103a5.gradio.live) | 💠 [APP#3] |
