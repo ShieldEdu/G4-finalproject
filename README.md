@@ -4,7 +4,7 @@
 + Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
-|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1](https://huggingface.co/spaces/chrsrh11/sequencing_app) | 💠 [APP#2] | 💠 [APP#3] |
+|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1](https://huggingface.co/spaces/chrsrh11/sequencing_app) | 💠 [APP#2](https://huggingface.co/spaces/chrsrh11/Verb_Base_Form_App) | 💠 [APP#3] |
 
 ## Lesson Plan
 
