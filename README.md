@@ -101,3 +101,10 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
   </tr>
 </table>
 
+<div align=center>
+   
+|WorldCloud|Gradio TTS App|Gradio Cloze Question App|Gradio Image Sequencing App|Gradio Writing Checker App|Gradio Verb Base Form App|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|![myqrcode](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/c435284f-70f9-4b0d-a077-b6f22cfcbefb)|![image](https://github.com/ShieldEdu/G4/assets/162398654/2e4859fb-72c8-4ff8-9276-cdc67385f100)|![image](https://github.com/ShieldEdu/G4/assets/162398654/eec5f177-e77b-492e-ab68-7a2bcaa49cb3)|
+</div>
+
