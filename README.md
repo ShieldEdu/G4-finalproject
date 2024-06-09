@@ -102,7 +102,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
-#### :blush::blue_book:We made a picturing book to get the story quickly! Click the link below!:)📙
+#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
 **<Synopsis>**
