@@ -18,8 +18,12 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - Foster creative writing abilities
 
 ## Tools Used
-- **Gradio**: For creating interactive web apps.
-- **Python**: Programming language for implementing Gradio apps.
+
+**Gradio:** For creating interactive web apps.
+
+**Python:** Programming language for implementing Gradio apps.
+
+**Hugging Face:** A platform providing a wide range of natural language processing (NLP) tools and models.
 
 ## Lesson Plan
 
