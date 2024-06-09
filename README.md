@@ -7,7 +7,7 @@
 ## Lesson Plan
 
 <div align=center>
-   |<img src="[https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The-final-banner2.jpg)"> </a>|
+   <img src="[https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The-final-banner2.jpg)">
 </div>
 
 ## Overview
