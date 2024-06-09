@@ -118,3 +118,20 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/a709a04d-1dd2-4bb8-acf1-9e33d6128b37" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/96698e68-6fd7-4dc6-8841-4c713b788d26" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/841c64f1-57a8-426d-b0ec-30ab309e41d7"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/cd47533c-5cf3-4eb1-8785-e41ad8d5b6c7" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/9a3f7623-7b8d-43af-bfc4-ab4da888bc54" alt="verb_base_form"> </a>|
 </div>
 
+### Final Reflection
+
+#### Advantages
+- 🐍 Proficiency in Python coding enables efficient material creation, saving time.
+- 🎛️ Customizable teaching by allowing individual student use of applications.
+- 🎨 Various engaging teaching methods can be explored.
+- 🚀 Incremental app improvement is enjoyable and enlightening.
+- 🎨 CSS skills allow for design customization.
+
+#### Disadvantages
+- 🐢 Application speed issues with multiple outputs; complexity increases time requirements.
+  - **Solution:** Prepare materials in advance.
+- 📝 Grammar-checking app accuracy is suboptimal, requiring extensive code adjustments.
+  - **Solution:** Integrate GPT-3.5 API for improved accuracy, though it increases costs due to token-based pricing.
+- 📚 Vocabulary apps require extensive manual input for specific results and proper noun exclusions.
+  - **Solution:** Utilize a large corpus of target-level words.
+- 🛠️ Challenges with Hugging Face, particularly in managing `requirements.txt` for necessary libraries.
