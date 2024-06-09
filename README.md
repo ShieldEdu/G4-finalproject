@@ -1,4 +1,4 @@
-# 📚 Group 4 Final project 
+# ⚔️ Group 4 Final project 
 + Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
