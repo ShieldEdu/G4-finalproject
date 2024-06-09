@@ -12,10 +12,10 @@
 This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
 
 ## Objectives
-- Improve vocabulary knowledge
-- Enhance listening comprehension
-- Develop sequencing skills
-- Foster creative writing abilities
+- 📚 Improve vocabulary knowledge
+- 🎧 Enhance listening comprehension
+- 🧩 Develop sequencing skills
+- ✍️ Foster creative writing abilities
 
 ## Tools Used
 
@@ -29,7 +29,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Teaching Procedure (55 minutes in total)
 
-### 1. Listening Activity (35 minutes)
+### 1. 🎧 Listening Activity (35 minutes)
 
 #### (1) Pre-Listening Activity: Learning New Words (10 minutes)
 
@@ -73,7 +73,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - Work individually or in pairs to arrange the images in the correct sequence.
 - Discuss and explain their reasoning for the order they chose.
 
-### 2. Writing Activity (20 minutes)
+### 2. ✍️ Writing Activity (20 minutes)
 
 **Objective:** Foster creative writing and check for grammatical accuracy.
 
@@ -91,10 +91,10 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ### Notes for Teachers
 
-- Ensure all Gradio apps are set up and tested before the lesson.
-- Be prepared to assist students with any technical issues that may arise while using the apps.
-- Encourage students to actively participate and ask questions throughout the lesson.
-- Adapt the activities as needed based on the students' proficiency levels and engagement.
+- ✅ Ensure all Gradio apps are set up and tested before the lesson.
+- 🛠️ Be prepared to assist students with any technical issues that may arise while using the apps.
+- 💬 Encourage students to actively participate and ask questions throughout the lesson.
+- ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
 
 ## Lesson Materials
 
