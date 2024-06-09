@@ -113,12 +113,7 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 
 <div align=center>
    
-|WorldCloud|Gradio TTS App|Gradio Cloze Question App|Gradio Image Sequencing App|Gradio Writing Checker App|
-|:--:|:--:|:--:|:--:|:--:|
-|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/a709a04d-1dd2-4bb8-acf1-9e33d6128b37" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/96698e68-6fd7-4dc6-8841-4c713b788d26" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/841c64f1-57a8-426d-b0ec-30ab309e41d7"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/cd47533c-5cf3-4eb1-8785-e41ad8d5b6c7" alt="verb_base_form"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/assets/162398654/9a3f7623-7b8d-43af-bfc4-ab4da888bc54" alt="verb_base_form"> </a>|
-</div>
-
-| WorldCloud | Gradio TTS App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
+| Gradio Worldcloud App | Gradio TTS App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|:--:|
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.jpg" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3.jpg" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4.jpg" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5.jpg" alt="writing_checker_app"> </a>|
 
