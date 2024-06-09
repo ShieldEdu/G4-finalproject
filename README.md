@@ -105,6 +105,6 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
    
 |WorldCloud|Gradio TTS App|Gradio Cloze Question App|Gradio Image Sequencing App|Gradio Writing Checker App|Gradio Verb Base Form App|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|![myqrcode](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/c435284f-70f9-4b0d-a077-b6f22cfcbefb)|![image](https://github.com/ShieldEdu/G4/assets/162398654/2e4859fb-72c8-4ff8-9276-cdc67385f100)|![image](https://github.com/ShieldEdu/G4/assets/162398654/eec5f177-e77b-492e-ab68-7a2bcaa49cb3)|
+|![myqrcode](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/c435284f-70f9-4b0d-a077-b6f22cfcbefb)|![myqrcode (1)](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/41ab9621-4f14-4262-a65f-0a1cbaca5357)|![myqrcode (2)](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/ff14c5c9-e4fa-4d3c-b51c-d8831bc9b06f)|![myqrcode (3)](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/def3df9f-5ce3-435a-ac14-48ef06518ce0)|![myqrcode (4)](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/ba5f3d3d-a664-48fc-a6c2-cad5cdeaefe7)|![myqrcode (5)](https://github.com/ShieldEdu/G4-finalproject/assets/162398654/42f444d8-cc7d-4f55-8791-9cef05a433c4)|
 </div>
 
