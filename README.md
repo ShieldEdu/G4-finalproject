@@ -6,9 +6,7 @@
 
 ## Lesson Plan
 
-<div align=center>
-   <img src="[https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The-final-banner2.jpg)">
-</div>
+![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The-final-banner2.jpg?raw=true)
 
 ## Overview
 This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
