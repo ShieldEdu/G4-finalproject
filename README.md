@@ -25,8 +25,6 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **Hugging Face:** A platform providing a wide range of natural language processing (NLP) tools and models.
 
-## Lesson Plan
-
 ## Teaching Procedure (55 minutes in total)
 
 ### 1. 🎧 Listening Activity (35 minutes)
