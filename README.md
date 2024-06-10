@@ -134,7 +134,7 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
   - **Solution:** Utilize a large corpus of target-level words.
 - 🛠️ Challenges with Hugging Face, particularly in managing `requirements.txt` for necessary libraries.
 
-##### Theoretical Foundations for This Lesson Plan
+#### Theoretical Foundations for This Lesson Plan
 - **Task-Based Language Teaching (TBLT)**
 The sequencing of images and creative writing tasks are designed as meaningful activities that require students to use the target language to complete specific outcomes. These tasks help in developing students' language skills in a practical and engaging manner.
 - **Input Hypothesis (Stephen Krashen)**
