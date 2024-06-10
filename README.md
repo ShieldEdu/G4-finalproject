@@ -33,7 +33,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Introduce and discuss new vocabulary from the story.
 
-**Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+**📱Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
 
 **👨‍🏫Teacher's Role:** Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
 
@@ -43,7 +43,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Enhance listening comprehension and focus on past tense verbs.
 
-**Activity:**
+**📱Activity:**
 - Use the Gradio TTS App to convert the text to an audio file. Play the audio for students.
 - Provide a cloze exercise using the Gradio Cloze Question App, focusing on past tense verbs. Students fill in the blanks while listening.
 - Use the Gradio Verb Base Form App to allow students to input past tense verbs they heard and get their base forms.
@@ -61,7 +61,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Develop sequencing skills by arranging images in the correct order.
 
-**Activity:** Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
+**📱Activity:** Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
 
 **👨‍🏫Teacher's Role:**
 - Display the images using the Image Sequencing App.
@@ -75,7 +75,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 **🎯Objective:** Foster creative writing and check for grammatical accuracy.
 
-**Activity:**
+**📱Activity:**
 - Provide the following writing prompt: "In the story, Alex and his friends discovered an ancient treasure in Whispering Hollow and decided to donate the artifacts to the local museum. In the past, did you have a similar experience where you found something valuable or interesting? Tell the story. Describe what you found, what you did with it, and how you felt about your decision. Remember to use past tense in your writing. Provide reasons for your opinions and try to relate them to the values and lessons from the story."
 - Use the Gradio Writing Checker App to allow students to check their writing for errors.
 
