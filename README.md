@@ -111,7 +111,7 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 
 <div align=center>
    
-| Gradio Worldcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
+| Gradio Wordcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|:--:|
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.jpg" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3.jpg" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4.jpg" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5.jpg" alt="writing_checker_app"> </a>|
 </div>
