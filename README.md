@@ -116,16 +116,16 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.jpg" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.jpg" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3.jpg" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4.jpg" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5.jpg" alt="writing_checker_app"> </a>|
 </div>
 
-### Final Reflection
+## Final Reflection
 
-#### Advantages
+### Advantages
 - 🐍 Proficiency in Python coding enables efficient material creation, saving time.
 - 🎛️ Customizable teaching by allowing individual student use of applications.
 - 🎨 Various engaging teaching methods can be explored.
 - 🚀 Incremental app improvement is enjoyable and enlightening.
 - 🎨 CSS skills allow for design customization.
 
-#### Disadvantages
+### Disadvantages
 - 🐢 Application speed issues with multiple outputs; complexity increases time requirements.
   - **Solution:** Prepare materials in advance.
 - 📝 Grammar-checking app accuracy is suboptimal, requiring extensive code adjustments.
@@ -133,3 +133,20 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 - 📚 Vocabulary apps require extensive manual input for specific results and proper noun exclusions.
   - **Solution:** Utilize a large corpus of target-level words.
 - 🛠️ Challenges with Hugging Face, particularly in managing `requirements.txt` for necessary libraries.
+
+# Theoretical Foundations for This Lesson Plan
+- **Task-Based Language Teaching (TBLT)**
+The sequencing of images and creative writing tasks are designed as meaningful activities that require students to use the target language to complete specific outcomes. These tasks help in developing students' language skills in a practical and engaging manner.
+- **Input Hypothesis (Stephen Krashen)**
+By listening to the audio story, students are exposed to comprehensible input that is slightly above their current level of proficiency. This exposure aids in natural language acquisition as students understand the story while encountering new linguistic structures.
+- **Output Hypothesis (Merrill Swain)**
+Creative writing activities and the use of the Writing Checker App provide students with opportunities to produce language. This production process helps them internalize language structures and improve their grammatical accuracy.
+- **Sociocultural Theory (Lev Vygotsky)**
+The lesson plan incorporates collaborative activities such as discussing vocabulary and sequencing images. These activities emphasize the social nature of learning, where students can learn from each other with the teacher providing scaffolding as needed.
+- **Multimodal Learning**
+By incorporating various media such as word clouds, audio, images, and writing, the lesson caters to different learning styles. This multimodal approach enhances engagement and helps students better retain information.
+- **Constructivist Learning Theory**
+The lesson encourages active participation and self-directed learning through interactive apps and discussions. This constructivist approach allows students to actively engage with the content and construct their understanding through experience.
+
+
+
