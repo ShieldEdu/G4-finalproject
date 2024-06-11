@@ -46,7 +46,6 @@ This lesson plan is designed for middle school students and focuses on enhancing
 **📱Activity:**
 - Use the Gradio TTS App to convert the text to an audio file. Play the audio for students.
 - Provide a cloze exercise using the Gradio Cloze Question App, focusing on past tense verbs. Students fill in the blanks while listening.
-- Use the Gradio Verb Base Form App to allow students to input past tense verbs they heard and get their base forms.
 
 **👨‍🏫Teacher's Role:**
 - Play the audio file and monitor students' progress.
