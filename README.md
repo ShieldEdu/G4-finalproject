@@ -1,3 +1,9 @@
+# ⚠️ The revision after the presentation
+
+- Revise the listening cloze application according to the feedback.
+- Update the revised cloze app to Huggingface.
+- The final presentation file is linked [here](https://docs.google.com/presentation/d/1q1BW6XAv0wOjrK57_4Hf3XUxcIBc85TZ/mobilepresent?slide=id.p1). [PPT file](https://docs.google.com/presentation/d/1q1BW6XAv0wOjrK57_4Hf3XUxcIBc85TZ/mobilepresent?slide=id.p2)
+
 # ⚔️ Group 4 Final project 
 + Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
