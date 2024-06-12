@@ -1,5 +1,5 @@
 # ⚠️ The revision after the presentation
-
+(updated 2024-06-12)
 - Revise the listening cloze application according to the feedback.
 - Update the revised cloze app to Huggingface.
 - The final presentation file is linked [here](https://docs.google.com/presentation/d/1q1BW6XAv0wOjrK57_4Hf3XUxcIBc85TZ/mobilepresent?slide=id.p1). [PPT file](https://docs.google.com/presentation/d/1q1BW6XAv0wOjrK57_4Hf3XUxcIBc85TZ/mobilepresent?slide=id.p2)
