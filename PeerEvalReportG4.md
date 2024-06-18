@@ -1,4 +1,4 @@
-# 💙 Peer Evaluation Review for Group 4 (0619, by MK316)
+# 💜 Peer Evaluation Review for Group 4 (0619, by MK316)
 
 + Your group really set a high bar with your presentation! The integration of multimodal features into the grammar lesson was exceptionally executed, enriching both the listening and pronunciation components effectively. It’s fantastic to see how you used apps to transform a traditional grammar lesson into a dynamic learning experience that covers extensive skills.
 
@@ -19,7 +19,7 @@
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
 |Mean|5.37|5.56|5.37|5.5|5.31|5.75|5.44|5.44|5.25|5.69|**5.47** (0.53)|
 
-![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G2-score.png)
+![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G4-score.png)
 
 ## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
 
